@@ -19,4 +19,18 @@
     "id": "200003",
     "code": "flattener.js"
 },
+{
+    "title": "ITP 2.1 Cookie Sync - Part 1 (preloader)",
+    "name" : "ITP 2.1 Cookie Sync - Part 1 (preloader) (Marketplace)",
+    "description": "Use this to configure the ITP Cookie Sync extension - Stores cookies in to localstorage and recreates missing cookies",
+    "id": "200004",
+    "code": "ITP_LS_preloader.js"
+},
+{
+    "title": "ITP 2.1 Cookie Sync - Part 2 (blr)",
+    "name" : "ITP 2.1 Cookie Sync - Part 2 (blr) (Marketplace)",
+    "description": "Use this to allow the ITP 2.1 Cookie Sync extension to work. <b>REQUIRES PART 1</b>",
+    "id": "200005",
+    "code": "ITP_LS_blr.js"
+},
 ]
