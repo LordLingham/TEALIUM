@@ -32,5 +32,5 @@
     "description": "Use this to allow the ITP 2.1 Cookie Sync extension to work. <b>REQUIRES PART 1</b>",
     "id": "200005",
     "code": "ITP_LS_blr.js"
-},
+}
 ]
