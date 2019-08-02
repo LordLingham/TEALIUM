@@ -1,3 +1,6 @@
+// SCOPE THIS TO PRELOADER
+
+
 //Define the teal global namespace
 window.teal = window.teal || {};
 teal.ignore_keys = {};
